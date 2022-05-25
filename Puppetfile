@@ -1,4 +1,5 @@
 forge 'https://forge.puppet.com'
+mod 'puppetlabs-apache', '7.0.0'
 
 # Modules from the Puppet Forge
 # Versions should be updated to be the latest at the time you start
